@@ -5,7 +5,7 @@ keywords:
 
 # Hero section
 title: OpenFranchise
-description: The **OpenFranchise Project**, which aims to provide an open system alternative for the traditional franchise model.
+description: An open franchise project, which aims to provide an open system alternative for the traditional franchise model.
 buttons:
     - content: Button
       url: '#'
