@@ -4,7 +4,7 @@ layout: homepage
 keywords:
 
 # Hero section
-title: Project name
+title: OpenFranchise
 description: Project description
 buttons:
     - content: Button
