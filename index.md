@@ -7,12 +7,12 @@ keywords:
 title: OpenFranchise
 description: An open franchise project, which aims to provide an open system alternative for the traditional franchise model.
 buttons:
-    - content: Button
-      url: '#'
+    - content: About
+      url: 'https://open-franchise.github.io/about/'
       external_url: false
     - icon: github
-      content: Button with icon
-      url: '#'
+      content: GitHub
+      url: 'https://github.com/Open-Franchise'
       external_url: true
 
 # Author box
