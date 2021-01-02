@@ -24,8 +24,24 @@ author:
 
 # Grid navigation
 grid_navigation:
-    - title: Grid navigation
+    - title: About
+      excerpt: Section description
+      cta: Read more
+      url: '#'    
+    - title: About
       excerpt: Section description
       cta: Read more
       url: '#'
+    - title: About
+      excerpt: Section description
+      cta: Read more
+      url: '#'
+    - title: About
+      excerpt: Section description
+      cta: Read more
+      url: '#'
+    - title: About
+      excerpt: Section description
+      cta: Read more
+      url: '#'   
 ---
