@@ -5,7 +5,7 @@ keywords:
 comments: false
 
 # Hero section
-title: Page title
+title: About
 description: Page description
 
 # Author box
