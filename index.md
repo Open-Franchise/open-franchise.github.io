@@ -27,21 +27,21 @@ grid_navigation:
     - title: About
       excerpt: Section description
       cta: Read more
-      url: '#'    
-    - title: About
+      url: 'https://open-franchise.github.io/about/'    
+    - title: Model
       excerpt: Section description
       cta: Read more
-      url: '#'
-    - title: About
+      url: 'https://open-franchise.github.io/model/'
+    - title: Purpose
       excerpt: Section description
       cta: Read more
-      url: '#'
-    - title: About
+      url: 'https://open-franchise.github.io/purpose'
+    - title: Structure
       excerpt: Section description
       cta: Read more
-      url: '#'
-    - title: About
+      url: 'https://open-franchise.github.io/structure/'
+    - title: Information
       excerpt: Section description
       cta: Read more
-      url: '#'   
+      url: 'https://open-franchise.github.io/information/'   
 ---
