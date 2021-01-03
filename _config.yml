@@ -23,7 +23,7 @@ doks:
                 text: OpenFranchise
                 image:
             copyright: Copyright &copy; 2017. - Andrew Magdy Kamal, Stark Drones Corporation <br>All rights reserved.
-       social_list:
+        social_list:
             - network_name: facebook
               profile_url: '#'
             - network_name: twitter
