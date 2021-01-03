@@ -32,8 +32,8 @@ doks:
               profile_url: 'https://www.instagram.com/explore/tags/openfranchise'
             - network_name: youtube
               profile_url: 'https://www.youtube.com/results?search_query=openfranchise'
-#    google_analytics:
-#        tracking_code: # Add your Google Analytics tracking code to activate Google Analytics
+    google_analytics:
+        tracking_code: # Add your Google Analytics tracking code to activate Google Analytics
     comments:
         disqus_forum_shortname: # Add your disqus forum shortname to activate comments
 
