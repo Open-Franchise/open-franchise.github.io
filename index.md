@@ -25,23 +25,23 @@ author:
 # Grid navigation
 grid_navigation:
     - title: About
-      excerpt: About the Open Franchise project
+      excerpt: Information about the Open Franchise Project, and the proposals regarding structures, purpose and reasoning.
       cta: Read more
       url: 'https://open-franchise.github.io/about/'    
     - title: Model
-      excerpt: Information on the "Open Franchise" model
+      excerpt: Information in regards to the Open Franchise business model and its implementation across different sectors.
       cta: Read more
       url: 'https://open-franchise.github.io/model/'
     - title: Purpose
-      excerpt: The purpose of Open Franchise
+      excerpt: Why was OpenFranchise created? What is its proposed purpose and advantage of the traditional franchise model?
       cta: Read more
       url: 'https://open-franchise.github.io/purpose'
     - title: Structure
-      excerpt: The Open Franchise business structure
+      excerpt: In regards to the Open Franchise business structure, model implementation, and different strategies
       cta: Read more
       url: 'https://open-franchise.github.io/structure/'
     - title: Information
-      excerpt: Further information regarding OpenFranchise
+      excerpt: Further information regarding OpenFranchise, miscellaneous information, comments, logs and/or updates 
       cta: Read more
       url: 'https://open-franchise.github.io/information/'   
 ---
