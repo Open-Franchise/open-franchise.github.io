@@ -25,13 +25,13 @@ doks:
             copyright: Copyright &copy; 2017. - Andrew Magdy Kamal, Stark Drones Corporation <br>All rights reserved.
        social_list:
             - network_name: facebook
-              profile_url: 'https://www.facebook.com/hashtag/openfranchise'
+              profile_url: '#'
             - network_name: twitter
-              profile_url: 'https://twitter.com/hashtag/openfranchise?src=hashtag_click'
+              profile_url: '#'
             - network_name: instagram
-              profile_url: 'https://www.instagram.com/explore/tags/openfranchise'
+              profile_url: '#'
             - network_name: youtube
-              profile_url: 'https://www.youtube.com/results?search_query=openfranchise'
+              profile_url: '#'
     google_analytics:
         tracking_code: # Add your Google Analytics tracking code to activate Google Analytics
     comments:
