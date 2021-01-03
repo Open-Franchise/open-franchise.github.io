@@ -25,23 +25,23 @@ author:
 # Grid navigation
 grid_navigation:
     - title: About
-      excerpt: Section description
+      excerpt: About the Open Franchise project
       cta: Read more
       url: 'https://open-franchise.github.io/about/'    
     - title: Model
-      excerpt: Section description
+      excerpt: Information on the "Open Franchise" model
       cta: Read more
       url: 'https://open-franchise.github.io/model/'
     - title: Purpose
-      excerpt: Section description
+      excerpt: The purpose of Open Franchise
       cta: Read more
       url: 'https://open-franchise.github.io/purpose'
     - title: Structure
-      excerpt: Section description
+      excerpt: The Open Franchise business structure
       cta: Read more
       url: 'https://open-franchise.github.io/structure/'
     - title: Information
-      excerpt: Section description
+      excerpt: Further information regarding OpenFranchise
       cta: Read more
       url: 'https://open-franchise.github.io/information/'   
 ---
