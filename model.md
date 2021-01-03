@@ -22,10 +22,10 @@ micro_nav: true
 page_nav:
     prev:
         content: Previous page
-        url: '#'
+        url: 'https://open-franchise.github.io/about/'
     next:
         content: Next page
-        url: '#'
+        url: 'https://open-franchise.github.io/purpose/'
 ---
 
 Write your markdown here ...
