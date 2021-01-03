@@ -19,8 +19,8 @@ buttons:
 author:
     title: About Author
     title_url: '#'
-    external_url: true
-    description: Author description
+    external_url: false
+    description: Andrew Magdy Kamal has built technologies for numerous startups. He currently does research in Computational Genomics, Distributed Systems, and Quantum Computing. He is a Copt, and likes to play a variety of sports or build things in his free time.
 
 # Grid navigation
 grid_navigation:
