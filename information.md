@@ -6,7 +6,7 @@ comments: false
 
 # Hero section
 title: Information
-description: Page description
+description: Further information regarding OpenFranchise, miscellaneous information, comments, logs and/or updates
 
 # Author box
 author:
