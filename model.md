@@ -6,7 +6,7 @@ comments: false
 
 # Hero section
 title: Model
-description: Page description
+description: Information in regards to the Open Franchise business model and its implementation across different sectors.
 
 # Author box
 author:
