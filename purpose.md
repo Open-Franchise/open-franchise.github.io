@@ -6,7 +6,7 @@ comments: false
 
 # Hero section
 title: Purpose
-description: Page description
+description: Why was OpenFranchise created? What is its proposed purpose and advantage of the traditional franchise model?
 
 # Author box
 author:
