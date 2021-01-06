@@ -6,7 +6,7 @@ comments: false
 
 # Hero section
 title: Structure
-description: Page description
+description: In regards to the Open Franchise business structure, model implementation, and different strategies
 
 # Author box
 author:
