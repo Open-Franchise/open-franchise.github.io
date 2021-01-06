@@ -6,7 +6,7 @@ comments: false
 
 # Hero section
 title: About
-description: Page description
+description: Information about the Open Franchise Project, and the proposals regarding structures, purpose and reasoning.
 
 # Author box
 author:
