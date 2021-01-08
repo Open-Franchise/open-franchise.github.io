@@ -37,4 +37,4 @@ The Open Franchise Project was built on the idea of open-sourced disruptive ente
 4. Integrations of technology
 4. Modern monetary gain policies
 
-Outside of this, franchises are extremely centralized. A new framework or proposal can be set in place that allows for higher mutual benefit for both parties involved. This proposal will look into technological and methodological designs regarding each issue. The reasoning behind open franchises go beyond these main issues, but also tackles the root problem of centralization. How can one have a more open business model, but still have higher perceived benefit over closed business models?
+Outside of this, franchises are extremely centralized. A new framework or proposal can be set in place that allows for higher mutual benefit for both parties involved. This proposal will look into *technological and methodological designs* regarding each issue. The reasoning behind open franchises go beyond these main issues, but also tackles the root problem of centralization. How can one have a more open business model, but still have higher perceived benefit over closed business models?
