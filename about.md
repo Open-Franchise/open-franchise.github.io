@@ -28,4 +28,6 @@ page_nav:
         url: 'https://open-franchise.github.io/model/'
 ---
 
-The Open Franchise Project was built on the idea of open-sourced disruptive enterprises practically inspired by the current franchise business model. However, there are alot of issues it tackles. Issues such as
+The Open Franchise Project was built on the idea of open-sourced disruptive enterprises practically inspired by the current franchise business model. However, there are alot of issues it tackles. 
+
+**Issues such as**
