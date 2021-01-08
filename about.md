@@ -31,3 +31,10 @@ page_nav:
 The Open Franchise Project was built on the idea of open-sourced disruptive enterprises practically inspired by the current franchise business model. However, there are alot of issues it tackles. 
 
 **Issues such as**
+1. Fee restrictions
+2. Degree of openess
+3. Faster scalability
+4. Integrations of technology
+4. Modern monetary gain policies
+
+Outside of this, franchises are extremely centralized. I believe a new framework or proposal can be set in place that allows for higher mutual benefit for both parties involved.
