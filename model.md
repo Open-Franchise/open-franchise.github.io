@@ -31,4 +31,6 @@ page_nav:
 The business model is quite simple. It is oriented under the idea of an open system for franchises. *What does that mean?*  Well, it means following a certain set of standards or a pipeline will allow for an open system to be possible.
 ##### Such system is as follows:
 1. No upfront cost.
-2.  ...
+2. Business components are sourced openly, but with a certain set of conditions.
+
+*The conditions are as follows:*
