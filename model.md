@@ -28,4 +28,4 @@ page_nav:
         url: 'https://open-franchise.github.io/purpose/'
 ---
 
-Write your markdown here ...
+The business model is quite simple. It is oriented under the idea of an open system from franchises. What does that mean?  Well it means following a certain set of standards or pipeline will allow for an open system to be possible.
