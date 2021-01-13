@@ -34,3 +34,6 @@ The business model is quite simple. It is oriented under the idea of an open sys
 2. Business components are sourced openly, but with a certain set of conditions.
 
 *The conditions are as follows:*
+1. The brand equity value belongs to the original franchise entity
+2. All uses of branding outside of the franchise model, goes to the original franchise entity
+3. For franchise locations, they must make reference to the original location address, its branding, and its website (if applicable)
