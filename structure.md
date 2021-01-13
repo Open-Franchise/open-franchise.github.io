@@ -28,4 +28,4 @@ page_nav:
         url: 'https://open-franchise.github.io/information/'
 ---
 
-Write your markdown here ...
+Right now this is in beta, and several proposals in regards to different structures and implementations are on there way.
